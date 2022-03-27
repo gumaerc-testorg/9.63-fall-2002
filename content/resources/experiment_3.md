@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a62ce3c9-c4ff-e0e2-7e94-5fbed05bf111
 resourcetype: Document
 title: Team Experiments Set 3
 uid: 5903309c-ff23-8140-b6cb-560187412b84

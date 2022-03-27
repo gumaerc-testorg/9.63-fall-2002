@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a62ce3c9-c4ff-e0e2-7e94-5fbed05bf111
 resourcetype: Document
 title: Experiments Set 2
 uid: e3f1f8f8-e541-63c4-e1b7-a6ad751fc65d
