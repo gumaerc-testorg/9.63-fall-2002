@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The reading list is arranged by topic covered in the class.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
