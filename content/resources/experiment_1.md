@@ -5,6 +5,7 @@ file: /courses/9-63-laboratory-in-cognitive-science-fall-2002/8cdad10b32ac20b8ce
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Experiment Set 1
 uid: 8cdad10b-32ac-20b8-cefd-207113b19ea7
 ---
 Introductory cognitive science lab experiment.
-
