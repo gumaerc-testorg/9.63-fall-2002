@@ -2,6 +2,7 @@
 content_type: resource
 description: Introductory cognitive science lab experiment.
 file: /courses/9-63-laboratory-in-cognitive-science-fall-2002/8cdad10b32ac20b8cefd207113b19ea7_experiment_1.pdf
+file_size: 18693
 file_type: application/pdf
 learning_resource_types:
 - Assignments
