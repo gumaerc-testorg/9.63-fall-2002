@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A set of cognitive science lab experiments.
-file: /courses/9-63-laboratory-in-cognitive-science-fall-2002/5903309cff238140b6cb560187412b84_experiment_3.pdf
+file: /ol-ocw-studio-app/courses/9-63-laboratory-in-cognitive-science-fall-2002/5903309cff238140b6cb560187412b84_experiment_3.pdf
 file_size: 43743
 file_type: application/pdf
 learning_resource_types:
